@@ -7,6 +7,10 @@ OOP-master
 JSON-знаток
 
 
+## Обо мне: 
+Люблю фуррей и делать какие-нибудь интересные проекты :3
+
+
 <!--
 **Cutey-Whity1/Cutey-Whity1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
